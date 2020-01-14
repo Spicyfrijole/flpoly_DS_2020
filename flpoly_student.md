@@ -4,20 +4,22 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+Buisiness law
 
-- Course 2
+Macro 
 
-- Course 3
+Operation research
 
-- Course 4
+Intro to data Science
+
+Buisness Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+Robotics
 
-- Thing 2
+Things that can be built
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
